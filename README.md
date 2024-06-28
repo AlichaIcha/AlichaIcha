@@ -1,7 +1,7 @@
 <h2> Hi there! My name is Alicha Icha </h2>
 
-* ðŸ‘© Pronouns: She/her
-* ðŸŒ± Iâ€™m currently learning javascript and design Bot Developer
+* 👤 Pronouns: She/her
+*  Iâ€™m currently learning javascript and design Bot Developer
 * ðŸ“« How to reach me: dheriap248@gmail.com
 
 ---
@@ -23,3 +23,8 @@
 
 ### :fire: My Github Histoty! :
 ![Manisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlichaIcha&show_icons=true&theme=radical)
+
+<div align="center">
+    <img src="https://typograssy.deno.dev/api?text=Thank%20you%20for%20visiting%20my%20profile!&l0=none&l1=ef858c&l2=62b7d8&l3=ffb6c1&l4=caf9ff&bg=none&frame=none&speed=250&comment=">
+    <img src="https://count.getloli.com/get/@Art1ord?theme=moebooru">
+</div>

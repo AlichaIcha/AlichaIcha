@@ -1,8 +1,8 @@
 <h2> Hi there! My name is Alicha Icha </h2>
 
 * 👤 Pronouns: She/her
-*  Iâ€™m currently learning javascript and design Bot Developer
-* ðŸ“« How to reach me: dheriap248@gmail.com
+* 👨‍💻 currently learning javascript and design Bot Developer
+* 💌 How to reach me: dheriap248@gmail.com
 
 ---
 
